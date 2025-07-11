@@ -24,6 +24,12 @@ A two-page Power BI dashboard analyzing customer behavior, revenue performance, 
 
 > ✅ Includes KPIs, customer type breakdown, discovery channels, and satisfaction rate.
 
+### 📊 [Sales Forecast Dashboard]
+
+(https://github.com/Janetkomaiya/Sales-Forecasting Dashboard/blob/main/salesforecast.png)
+
+An interactive Power BI dashboard that analyzes sales trends, customer behavior, and product performance from 2015–2018. It highlights KPIs like total sales, growth rate, and top regions to support business forecasting.
+
 ---
 
 ## 🧠 What I’m Currently Exploring
