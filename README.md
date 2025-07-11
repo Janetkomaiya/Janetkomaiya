@@ -19,8 +19,8 @@ I help small brands and business owners uncover trends, understand customer beha
 
 ## 📂 Featured Projects
 
-### [📊 Sales Performance Dashboard](https://github.com/Janetkomaiya/Sales---Performance---dashboard)
-
+### [📊 Sales Performance Dashboard]
+(https://github.com/Janetkomaiya/Sales---Performance---dashboard)
 A two-page Power BI dashboard analyzing customer behavior, revenue performance, and hourly order trends.
 
 > ✅ Includes KPIs, customer type breakdown, discovery channels, and satisfaction rate.
