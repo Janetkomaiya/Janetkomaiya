@@ -20,6 +20,17 @@ My work combines **quantitative analysis and social research**, helping organiza
 
 ## 📂 Featured Projects
 
+### [🌦️ Weather Comparison Power BI Dashboard](https://github.com/Janetkomaiya/Weather_Comparison_PowerBI_Dashboard)
+A 3-page Power BI dashboard comparing **weather patterns between Lagos 🇳🇬 and Toronto 🇨🇦**, analyzing **temperature, humidity, and rainfall trends**.  
+
+> ✅ 4 KPIs: Average Temperature, Maximum Temperature, Average Humidity, Total Rainfall  
+> ✅ 3 pages: Overview | Temperature & Humidity Trends | Rainfall & Weather Conditions  
+> ✅ Clean, interactive visuals with icons, slicers, and gradient backgrounds  
+> ✅ Demonstrates comparative climate analysis and data storytelling with Power BI  
+> ✅ Repository includes dashboard screenshots and `.pbix` file for reproducibility
+
+
+
 ### [📊 Gender Representation in Media Headlines](https://github.com/Janetkomaiya/Gender-Representation-in-Media-Headlines)
 A Power BI dashboard analyzing **150 headlines** from five major Nigerian newspapers to explore **gender representation in media coverage**.  
 
@@ -28,10 +39,8 @@ A Power BI dashboard analyzing **150 headlines** from five major Nigerian newspa
 > ✅ Dataset included for reproducibility  
 > ✅ Highlights trends in gender representation and media framing
 
----
-
-### [📊 Sales Performance Dashboard](https://github.com/Janetkomaiya/Sales---Performance---dashboard)
-A two-page Power BI dashboard analyzing customer behavior, revenue performance, and hourly order trends.
+ [📊 Sales Performance Dashboard](https://github.com/Janetkomaiya/Sales---Performance---dashboard)
+A two-page Power BI dashb,oard analyzing customer behavior, revenue performance, and hourly order trends.
 
 > ✅ Includes KPIs, customer type breakdown, discovery channels, and satisfaction rate  
 > ✅ Demonstrates business analytics and data storytelling skills
