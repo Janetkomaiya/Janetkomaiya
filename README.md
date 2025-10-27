@@ -39,7 +39,7 @@ A Power BI dashboard analyzing **150 headlines** from five major Nigerian newspa
 > ✅ Dataset included for reproducibility  
 > ✅ Highlights trends in gender representation and media framing
 
- [📊 Sales Performance Dashboard](https://github.com/Janetkomaiya/Sales---Performance---dashboard)
+ ### [📊 Sales Performance Dashboard](https://github.com/Janetkomaiya/Sales---Performance---dashboard)
 A two-page Power BI dashb,oard analyzing customer behavior, revenue performance, and hourly order trends.
 
 > ✅ Includes KPIs, customer type breakdown, discovery channels, and satisfaction rate  
@@ -52,6 +52,15 @@ An interactive Power BI dashboard that analyzes sales trends, customer behavior,
 
 > ✅ Highlights KPIs like total sales, growth rate, and top regions to support business forecasting  
 > ✅ Focuses on predictive analytics and trend visualization
+
+### [🏨 Hotel Booking Analysis (Resort Hotel Only)](https://github.com/Janetkomaiya/Hotel-Booking-Analysis)
+An interactive Power BI dashboard analyzing **4,000+ resort hotel bookings** to uncover **guest behavior, cancellation patterns, and revenue insights**.  
+
+> ✅ 6 KPIs: Total Bookings, Check-Outs, Cancellations, Cancellation Rate, Average Lead Time, Average Revenue  
+> ✅ Visuals: Distribution channels, meal preferences, and seasonal trends  
+> ✅ Data cleaned in Excel & Power BI, analyzed with SQL, visualized in Power BI  
+> ✅ Reveals patterns that can help improve forecasting, reduce cancellations, and optimize booking channels  
+> ✅ Repository includes dashboard screenshots and dataset link for reproducibility
 
 ---
 
